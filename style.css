@@ -1,0 +1,22 @@
+div {
+text-align: center;
+}
+
+#first {
+	color: red;
+	border: 1px solid blue;
+}
+
+.multiple {
+	background-color: gray;
+}
+
+p {
+	display: inline-block;
+	width: 33%;
+}
+
+img {
+	border-top: 70px;
+	border-radius: 140px;	
+}
